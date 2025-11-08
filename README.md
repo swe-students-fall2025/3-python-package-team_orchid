@@ -31,10 +31,10 @@ random_quote()
 coding_wisdom("Python")
 
 # Get personalized study tips
-wisdom.study_tip(hours_available=3, difficulty="hard")
+study_tip(hours_available=3, difficulty="hard")
 
 # Enjoy some programming humor
-wisdom.jokes(2)
+jokes(2)
 
 ```
 

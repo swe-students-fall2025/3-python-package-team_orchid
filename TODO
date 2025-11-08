@@ -6,16 +6,16 @@
 [x] Use twine to upload the package to PyPI.
 [x] Use GitHub Actions to build your package and run your tests on two different recent versions of Python with every pull request to the main branch of your GitHub repository.
 [] delete the feature branch
-[] Create an example program that uses all functions of your package and demonstrates its complete functionality.
-[] beautiful read-me file on 
-    [] description
-    [] clear instructions
-    [] code examples
-    [] include doc for all the functions and how to use + import
-    [] how to contribute + build + test + run
-    [] Include a badge at the top of the README.md file showing the result of the latest build/test workflow run.
-    [] Include the names of all teammates as links to their GitHub profiles in the README.md file.
-    [] Include a link to your package's page on the PyPI website.
+[x] Create an example program that uses all functions of your package and demonstrates its complete functionality.
+[x] beautiful read-me file on 
+    [x] description
+    [x] clear instructions
+    [x] code examples
+    [x] include doc for all the functions and how to use + import
+    [x] how to contribute + build + test + run
+    [x] Include a badge at the top of the README.md file showing the result of the latest build/test workflow run.
+    [x] Include the names of all teammates as links to their GitHub profiles in the README.md file.
+    [x] Include a link to your package's page on the PyPI website.
 
 
-random other notes please push to cheese shop using twine before final submission
+[x] random other notes please push to cheese shop using twine before final submission
